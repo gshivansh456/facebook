@@ -1,0 +1,89 @@
+ @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    
+    background-color: #c4cad3;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.container{
+    
+    position: absolute;
+    top: 30%;
+    left: 14%;
+    font-size: 25px;
+
+}
+.container h1{
+    color: #3e3ee9;
+    
+}
+.container p{
+    font-size: 12px;
+}
+header{
+    
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    top: 20%;
+    left: 57%;
+    background-color: white;
+}
+.box input{
+    width: 75%;
+    margin: 10px;
+    margin-top: 18px;
+    margin-left: 22px;
+    padding: 13px 18px;
+}
+.link {
+    
+    width: 61%;
+    text-align: center;
+    background-color: #3e3ee9;
+    margin: 10px;
+    margin-left: 17%;
+    padding: 10px;
+    border-radius: 6px;
+}
+.link a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.link1 {
+    text-align: center;
+    margin-top: 12px;
+    
+}
+.link1 a{
+    color:#3e3ee9 ;
+    text-decoration: none;
+    font-size: 15px;
+}
+.link2{
+    width: 50%;
+    text-align: center;
+    margin-top: 40px;
+    background-color: green;
+    cursor: pointer;
+    padding: 10px;
+    margin: 22%;
+    border-radius: 6px;
+}
+.link2 a{
+    text-decoration: none;
+    color: white;
+    
+}
+p{
+    font-size: 15px;
+    position: absolute;
+    bottom: -55px;
+}
+
